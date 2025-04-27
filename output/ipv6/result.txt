@@ -441,6 +441,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227402/index.m3u8
 兵团卫视,http://tv.scjyhd.com:4022/udp/239.93.42.43:5140
 兵团卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?
+兵团卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887456.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053$订阅源
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws$订阅源
 重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD$订阅源
@@ -884,6 +885,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 山西卫视,http://tvh.990066.xyz/stream/channelid/1471091960?profile=pass
 山西卫视,http://tv.scjyhd.com:4022/udp/239.11.0.32:5140
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?
+山西卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887413.m3u8
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$订阅源
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$订阅源
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws$订阅源
@@ -896,6 +898,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 陕西卫视,http://tvh.990066.xyz/stream/channelid/347264162?profile=pass
 陕西卫视,http://tv.scjyhd.com:4022/udp/239.93.0.176:5140
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?
+陕西卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887404.m3u8
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$订阅源
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws$订阅源
 四川卫视,http://j.x.bkpcp.top/jx/SICHD$订阅源
@@ -950,6 +953,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 三沙卫视,http://tv.scjyhd.com:4022/udp/239.93.42.58:5140
 三沙卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?
+三沙卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887452.m3u8
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD$订阅源
 天津卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8$订阅源
@@ -1009,6 +1013,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 西藏卫视,http://tvh.990066.xyz/stream/channelid/1250000236?profile=pass
 西藏卫视,http://tv.scjyhd.com:4022/udp/239.93.0.175:5140
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?
+西藏卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887434.m3u8
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws$订阅源
 云南卫视,http://goo.bkpcp.top/mg/ynws$订阅源
@@ -1169,6 +1174,7 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 金鹰卡通,http://tv.scjyhd.com:4022/udp/239.93.0.108:5140
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?
+金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls$订阅源
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8$订阅源
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
@@ -1530,6 +1536,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 金鹰卡通,http://tv.scjyhd.com:4022/udp/239.93.0.108:5140
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?
+金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8$订阅源
@@ -1619,4 +1626,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-04-27 07:50:41,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-04-27 19:54:07,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
