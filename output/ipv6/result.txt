@@ -1098,12 +1098,14 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8$订阅源
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$订阅源
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8$订阅源
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8$订阅源
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$订阅源
 TVB+,http://cdn.163189.xyz/live/tvbp/stream.m3u8$订阅源
 TVB+,http://cdn5.1678520.xyz/live/?id=tvbp$订阅源
@@ -1121,8 +1123,10 @@ TVB+,http://cdn5.1678520.xyz/live/?id=tvbp$订阅源
 无线新闻台,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8$订阅源
 无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8$订阅源
 寰宇新闻,https://tv.iill.top/litv/litv-longturn14$订阅源
+寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 美亚电影台(HK),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152$订阅源
+东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 千禧经典台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc$订阅源
 千禧经典台(HK),http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic$订阅源
 viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
@@ -1130,10 +1134,12 @@ viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 龙华电影,https://tv.iill.top/litv/litv-longturn03$订阅源
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8$订阅源
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8$订阅源
+龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$订阅源
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8$订阅源
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 
 🌈安徽频道,#genre#
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
@@ -1443,6 +1449,8 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 
 🏀体育频道,#genre#
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
@@ -1492,6 +1500,7 @@ CCTV-5+,http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive$订阅�
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000$订阅源
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
@@ -1674,4 +1683,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-05-02 08:23:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-02 20:15:05,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
