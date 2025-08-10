@@ -1440,6 +1440,7 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 经典电影,http://goo.bkpcp.top/mg/jdxgdy$订阅源
 经典电影,https://tv.iill.top/4gtv/201$订阅源
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
+经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
 无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
@@ -1681,4 +1682,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-08-09 19:54:25,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2025-08-10 08:00:21,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
