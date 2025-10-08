@@ -1622,6 +1622,7 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 快乐垂钓,https://cc06.tv12.xyz/56.m3u8
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983$订阅源
 JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🪁动画频道,#genre#
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8$订阅源
@@ -1679,6 +1680,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
 七龙珠,https://live.iill.top/huya/11601966$订阅源
+七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 火影忍者,https://live.iill.top/douyu/1997723$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
@@ -1686,6 +1688,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 猫和老鼠,https://live.iill.top/huya/11352879$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
+猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568$订阅源
@@ -1735,6 +1738,7 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 笑傲江湖,http://live.iill.top/yy.php?id=1354282410
 笑傲江湖,http://live.metshop.top/huya/26355790
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
+笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
 天龙八部,http://luobo.bkpcp.top/yy/1382736855$订阅源
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
@@ -1765,9 +1769,10 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8$订阅源
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
+射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164
 
 🐋海外频道,#genre#
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-10-08 07:50:24,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2025-10-08 19:54:00,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
