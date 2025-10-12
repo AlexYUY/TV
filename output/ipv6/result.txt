@@ -409,6 +409,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
 安多卫视,http://tv.scjyhd.com:4022/udp/239.11.0.124:5140
 安多卫视,http://3501776.xyz:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
+安多卫视,http://dsk.cc/php/xxtv.php?id=adws
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws$订阅源
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD$订阅源
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
@@ -1775,4 +1776,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-10-12 19:45:04,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2025-10-13 07:49:54,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
