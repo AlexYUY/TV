@@ -1339,6 +1339,7 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 生活时尚,http://tv.scjyhd.com:4022/udp/239.93.0.106:5140
 都市剧场,http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 东方财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$订阅源
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb$订阅源
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
@@ -1505,8 +1506,10 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
+靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058$订阅源
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 经典电影,http://goo.bkpcp.top/mg/jdxgdy$订阅源
 经典电影,https://tv.iill.top/4gtv/201$订阅源
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
@@ -1778,4 +1781,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-11-08 07:43:22,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2025-11-08 19:44:44,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
