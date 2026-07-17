@@ -460,8 +460,8 @@ CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 兵团卫视,http://wouu.net:9977/udp/239.93.42.43:5140
 兵团卫视,https://cc06.tv12.xyz/30.m3u8
 兵团卫视,http://nas.hssvm.com:8888/udp/225.1.1.57:5002
+兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-兵团卫视,http://124.116.183.146/rtp/239.112.205.198:5140$陕西电信组播源-cache:124.116.183.146
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws$订阅源
 重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD$订阅源
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND$订阅源
@@ -914,8 +914,8 @@ CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 山西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8
 山西卫视,http://3501776.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
 山西卫视,https://cc06.tv12.xyz/107.m3u8
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://106.46.169.202:9000/hls/39/index.m3u8
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$订阅源
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws$订阅源
 陕西卫视,http://goo.bkpcp.top/mg/sxws$订阅源
@@ -1088,10 +1088,10 @@ CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 延边卫视,http://iptv.huuc.edu.cn/hls/ybtv.m3u8
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 延边卫视,https://cc06.tv12.xyz/113.m3u8
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8$订阅源
-延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
+延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$订阅源
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws$订阅源
@@ -1280,9 +1280,9 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 金鹰卡通,https://cc06.tv12.xyz/55.m3u8
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
 金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-金鹰卡通,http://124.116.183.146/rtp/239.112.205.136:5140$陕西电信组播源-cache:124.116.183.146
-金鹰卡通,http://139.196.214.238/rtp/239.45.3.118:5140$上海电信组播源-cache:139.196.214.238
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
+金鹰卡通,http://139.196.214.238/rtp/239.45.3.118:5140$上海电信组播源-cache:139.196.214.238
+金鹰卡通,http://124.116.183.146/rtp/239.112.205.136:5140$陕西电信组播源-cache:124.116.183.146
 金鹰卡通,http://123.130.84.106/rtp/239.253.254.117:8000$山东联通组播源-cache:123.130.84.106
 金鹰卡通,rtsp://180.95.143.19/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil$订阅源
 金鹰卡通,rtsp://116.176.26.18/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil$订阅源
@@ -1293,8 +1293,8 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?
 金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
 金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
-金鹰纪实,http://124.116.183.146/rtp/239.112.205.203:5140$陕西电信组播源-cache:124.116.183.146
 金鹰纪实,http://139.196.214.238/rtp/239.45.1.45:5140$上海电信组播源-cache:139.196.214.238
+金鹰纪实,http://124.116.183.146/rtp/239.112.205.203:5140$陕西电信组播源-cache:124.116.183.146
 金鹰纪实,http://123.130.84.106/rtp/239.253.254.103:8000$山东联通组播源-cache:123.130.84.106
 金鹰纪实,rtsp://115.153.254.81/PLTV/88888888/224/3221226823/59781863.smil$订阅源
 金鹰纪实,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226823/59781863.smil$订阅源
@@ -1388,8 +1388,8 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 上海都市,https://migu.188766.xyz/?migutoken=25fca555af4be46a9744edda1dbd024d&id=ds&type=sz
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 上海都市,http://www.zhch682022.cn:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-纪实人文,http://124.116.183.146/rtp/239.112.205.204:5140$陕西电信组播源-cache:124.116.183.146
 纪实人文,http://139.196.214.238/rtp/239.45.3.212:5140$上海电信组播源-cache:139.196.214.238
+纪实人文,http://124.116.183.146/rtp/239.112.205.204:5140$陕西电信组播源-cache:124.116.183.146
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8$订阅源
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8$订阅源
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$订阅源
@@ -1428,8 +1428,8 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 游戏风云,http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
-游戏风云,http://124.116.183.146/rtp/239.111.205.4:5140$陕西电信组播源-cache:124.116.183.146
 游戏风云,http://139.196.214.238/rtp/239.45.3.131:5140$上海电信组播源-cache:139.196.214.238
+游戏风云,http://124.116.183.146/rtp/239.111.205.4:5140$陕西电信组播源-cache:124.116.183.146
 游戏风云,http://123.130.84.106/rtp/239.253.254.95:8000$山东联通组播源-cache:123.130.84.106
 游戏风云,rtsp://115.153.245.70/PLTV/88888888/224/3221225615/iptv7998.smil$订阅源
 游戏风云,rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil$订阅源
@@ -1472,8 +1472,8 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 欢笑剧场,http://3501776.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8
 欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-欢笑剧场,http://124.116.183.146/rtp/239.112.205.236:5140$陕西电信组播源-cache:124.116.183.146
 欢笑剧场,http://139.196.214.238/rtp/239.45.3.196:5140$上海电信组播源-cache:139.196.214.238
+欢笑剧场,http://124.116.183.146/rtp/239.112.205.236:5140$陕西电信组播源-cache:124.116.183.146
 欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil$订阅源
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001$订阅源
 七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj$订阅源
@@ -1495,11 +1495,11 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 都市剧场,http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-都市剧场,http://124.116.183.146/rtp/239.111.205.2:5140$陕西电信组播源-cache:124.116.183.146
-都市剧场,http://139.196.214.238/rtp/239.45.3.136:5140$上海电信组播源-cache:139.196.214.238
+都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
+都市剧场,http://139.196.214.238/rtp/239.45.3.136:5140$上海电信组播源-cache:139.196.214.238
+都市剧场,http://124.116.183.146/rtp/239.111.205.2:5140$陕西电信组播源-cache:124.116.183.146
 都市剧场,http://123.130.84.106/rtp/239.253.254.98:8000$山东联通组播源-cache:123.130.84.106
 都市剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
 都市剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
@@ -1527,8 +1527,8 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc$订阅源
 浙江新闻,http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e$订阅源
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$订阅源
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037$订阅源
 之江纪录,http://goo.bkpcp.top/mg/zjjl$订阅源
@@ -1537,10 +1537,10 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?$订阅源
 浙江民生休闲,http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef$订阅源
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江民生休闲,http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8$订阅源
 浙江民生休闲,https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8$订阅源
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
@@ -1552,14 +1552,14 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 浙江国际,https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 浙江国际,https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450$订阅源
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江教科影视,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa$订阅源
 浙江教科影视,http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67$订阅源
 浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 杭州综合,http://goo.bkpcp.top/mg/hzzh$订阅源
 杭州综合,http://live.xmcdn.com/live/1845/64.m3u8$订阅源
@@ -1829,8 +1829,8 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 五星体育,https://migu.188766.xyz/?migutoken=245ce021c8cbf7bdfc87b00952b97040&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
-五星体育,http://139.196.214.238/rtp/239.45.3.210:5140$上海电信组播源-cache:139.196.214.238
 五星体育,http://live.xmcdn.com/live/57/64.m3u8$订阅源
+五星体育,http://139.196.214.238/rtp/239.45.3.210:5140$上海电信组播源-cache:139.196.214.238
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$订阅源
 劲爆体育,http://goo.bkpcp.top/mg/jbty$订阅源
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源
@@ -1996,9 +1996,9 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 金鹰卡通,https://cc06.tv12.xyz/55.m3u8
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
 金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-金鹰卡通,http://124.116.183.146/rtp/239.112.205.136:5140$陕西电信组播源-cache:124.116.183.146
-金鹰卡通,http://139.196.214.238/rtp/239.45.3.118:5140$上海电信组播源-cache:139.196.214.238
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
+金鹰卡通,http://139.196.214.238/rtp/239.45.3.118:5140$上海电信组播源-cache:139.196.214.238
+金鹰卡通,http://124.116.183.146/rtp/239.112.205.136:5140$陕西电信组播源-cache:124.116.183.146
 金鹰卡通,http://123.130.84.106/rtp/239.253.254.117:8000$山东联通组播源-cache:123.130.84.106
 金鹰卡通,rtsp://180.95.143.19/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil$订阅源
 金鹰卡通,rtsp://116.176.26.18/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil$订阅源
@@ -2061,8 +2061,8 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 游戏风云,http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
-游戏风云,http://124.116.183.146/rtp/239.111.205.4:5140$陕西电信组播源-cache:124.116.183.146
 游戏风云,http://139.196.214.238/rtp/239.45.3.131:5140$上海电信组播源-cache:139.196.214.238
+游戏风云,http://124.116.183.146/rtp/239.111.205.4:5140$陕西电信组播源-cache:124.116.183.146
 游戏风云,http://123.130.84.106/rtp/239.253.254.95:8000$山东联通组播源-cache:123.130.84.106
 游戏风云,rtsp://115.153.245.70/PLTV/88888888/224/3221225615/iptv7998.smil$订阅源
 游戏风云,rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil$订阅源
@@ -2172,4 +2172,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2026-07-17 08:15:14,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2026-07-17 20:37:50,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
