@@ -1132,6 +1132,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰香港,https://cdn.qd.je/163189/fhhk
 TVB+,http://cdn.163189.xyz/live/tvbp/stream.m3u8$订阅源
 TVB+,http://cdn5.1678520.xyz/live/?id=tvbp$订阅源
 中天新闻台,https://tv.iill.top/litv/4gtv-4gtv009$订阅源
@@ -1150,6 +1151,7 @@ TVB+,http://cdn5.1678520.xyz/live/?id=tvbp$订阅源
 明珠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=cadf460aacc566024c43c7c43091734c
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,https://cdn.qd.je/163189/mzt
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152$订阅源
 东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 千禧经典台(HK),http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic$订阅源
@@ -1838,4 +1840,4 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2026-08-16 19:26:39,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
+2026-08-17 07:24:41,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$订阅源
